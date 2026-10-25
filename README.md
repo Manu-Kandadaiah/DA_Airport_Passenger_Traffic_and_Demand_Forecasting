@@ -4,7 +4,7 @@ A reproducible data analytics project that explores monthly passenger
 traffic across six Indian airports and compares forecasting approaches
 to estimate the next 12 months of demand.
 
-> **Data note:** This portfolio project uses generated synthetic data,
+> **Data note:** This project uses generated synthetic data,
 > not official airport or airline statistics. Airport codes identify
 > real airports, but the observations and results are simulated.
 
