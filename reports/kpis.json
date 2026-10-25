@@ -1,0 +1,6 @@
+{
+  "airports": 6,
+  "monthly_records": 504,
+  "test_months_per_airport": 12,
+  "forecast_months_per_airport": 12
+}
